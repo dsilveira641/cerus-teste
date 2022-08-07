@@ -1,0 +1,10 @@
+{
+  "atividade": [
+    {
+      "id": 1,
+      "nome": "Passear com cachorro",
+      "descricao": "Passear com cachorro na praia",
+      "data": "01/02/2022"
+    }
+  ]
+}
